@@ -1,1 +1,10 @@
  wide-property.surge.sh
+
+// First terminal run
+ live-server public
+
+ // Second terminal run
+ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+
+
+
