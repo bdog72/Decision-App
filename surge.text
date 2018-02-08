@@ -1,23 +1,7 @@
-wide-property.surge.sh
 
-// First terminal run
- live-server public
+run this in terminal 
 
- // Second terminal run
- babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
-
-
-new terminal commands
-
-yarn run serve
-
-yarn run build
-
-02/05/2018
-
-Newest terminal run
-
-yarn ren dev-server
+yarn run dev-server
 
 surge 
 
